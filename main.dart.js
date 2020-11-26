@@ -53007,7 +53007,7 @@ p.AL()
 if(p.iV()){p=q.e
 s=t.bi
 r=P.aw(["idTerapeuta",C.f.i(p.a),"idCrianca",C.f.i(p.b),"idadeCrianca",C.f.i(p.c),"portuguesLinguaMae",J.c1(p.d),"genero",p.NE(),"desvios",p.f],s,s)
-G.agR("http://biovisualspeech.eu.pythonanywhere.com/newProfile/",C.bL.EO("",null),r)
+G.agR("https://biovisualspeech.eu.pythonanywhere.com/newProfile/",C.bL.EO("",null),r)
 q.ax(new L.Wu(q))}},
 T:function(a,b){var s,r,q=this,p=null,o=t.fQ,n=T.a4v(H.d([q.YR(),T.kD(p,p,20),q.U9(),T.kD(p,p,20),q.U5()],o)),m=Z.a3_(),l=H.d([],o)
 for(s=q.Xo(),r=0;r<2;++r)l.push(s[r])
